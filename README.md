@@ -1,4 +1,0 @@
-photo-uploading-test
-====================
-
-PhotoUploadingTest
